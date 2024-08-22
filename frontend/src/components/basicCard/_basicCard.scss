@@ -1,0 +1,16 @@
+.basicCard {
+    position: relative;
+    height: 14rem;
+    width: 10rem;
+    border-radius: 0.2rem;
+    overflow: hidden;
+    transition: all 0.3s;
+    cursor: pointer;
+    &__poster {
+        width: 100%;
+        height: 100%;
+    }
+    &:hover {
+        transform: scale(1.1);
+    }
+}

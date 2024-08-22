@@ -1,0 +1,44 @@
+@font-face {
+  src: url("./assets/fonts/Helvetica.ttc");
+  font-family: 'Helvetica';
+}
+
+@font-face {
+  src: url("./assets/fonts/NetflixSans.otf");
+  font-family: 'Netflix';
+}
+
+@font-face {
+  src: url("./assets/fonts/Quicksand-Medium.ttf");
+  font-family: 'Quicksand_Medium';
+}
+
+@font-face {
+  src: url("./assets/fonts/Quicksand-SemiBold.ttf");
+  font-family: 'Quicksand_SB';
+}
+
+@import "assets/style/colors";
+@import "assets/style/keyframes";
+
+@import "assets/style/reset";
+@import "assets/style/typo";
+@import "assets/style/base";
+
+@import "components/assideCard/assideCard";
+@import "components/mainCard/mainCard";
+@import "components/sliderCarousel/dotSlider";
+@import "components/details/headerDetails";
+@import "components/basicCard/basicCard";
+@import "components/carouselArrow/carouselArrow";
+@import "components/posterCard/posterCard";
+@import "components/excuseComponent/excuse";
+
+@import "layout/header/header";
+@import "layout/mainCarousel/carousel";
+@import "layout/carousel/basicCarousel";
+@import "layout/posterCarousel/posterCarousel";
+
+@import "pages/page";
+@import "pages/home/home";
+@import "pages/movie/movie";

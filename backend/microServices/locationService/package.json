@@ -1,0 +1,22 @@
+{
+  "name": "location_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "serveur.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "curl -H \"Content-type: application/json\" http://localhost:8087/\n"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "express": "^4.19.1",
+    "nodemon": "^3.1.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}

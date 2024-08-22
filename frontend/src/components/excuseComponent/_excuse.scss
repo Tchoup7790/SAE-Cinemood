@@ -1,0 +1,27 @@
+.excuse{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    padding: 2rem 0;
+    width: 100%;
+    gap: 2rem;
+    &__label{
+        display: flex;
+        align-items: center;
+        opacity: .8;
+        gap: .5rem;
+        &__select{
+            padding: .5rem 0;
+            border: none;
+            background: transparent;
+            color: $font-color;
+            font-size: 1.3rem;
+            cursor: pointer;
+        }
+    }
+    &__result{
+        height: 2rem;
+        font-style: italic;
+    }
+}

@@ -1,0 +1,34 @@
+.movie {
+    background: $bg-color;
+    background-image: url("./assets/img/background.png");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    gap: 5rem;
+    &__video {
+        flex: 1;
+        height: 23rem;
+        border: none;
+        border-radius: 0.2rem;
+        cursor: pointer;
+    }
+    &__text {
+        display: flex;
+        flex-direction: column;
+        align-items: start;
+        justify-content: center;
+        flex: 1;
+        gap: 2rem;
+        padding: 1rem;
+        & > h1 {
+            font-size: 4rem;
+            text-align: left;
+        }
+        & > * {
+            text-align: justify;
+        }
+    }
+}

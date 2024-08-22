@@ -1,0 +1,28 @@
+{
+  "name": "excuse_service",
+  "version": "1.1.0",
+  "description": "",
+  "main": "serveur.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "c8 nyc mocha --timeout 10000 --cahe off --exit"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    "express": "^4.19.1",
+    "nodemon": "^3.1.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "c8": "^9.1.0",
+    "chai": "^5.1.0",
+    "mocha": "^10.4.0",
+    "nyc": "^15.1.0",
+    "sinon": "^17.0.1",
+    "stub": "^0.3.2",
+    "supertest": "^6.3.4"
+  }
+}

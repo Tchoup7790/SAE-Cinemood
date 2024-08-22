@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  height: fit-content;
+  align-content: center;
+  overflow-x: hidden;
+  background-color: $bg-color;
+}

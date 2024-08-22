@@ -1,0 +1,24 @@
+.posterCard{
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 20rem;
+    width: 15rem;
+    border-radius: .2rem;
+    opacity: .5;
+    overflow: hidden;
+    transform: none;
+    cursor: pointer;
+    box-shadow: 0 0 20px $shadow-color;
+    transition: all .5s ease-in-out;
+    &--select{
+        transform: scale(1.2);
+        opacity: 1;
+    }
+    &__image{
+        width: 100%;
+        height: 100%;
+    }
+}

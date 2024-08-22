@@ -1,0 +1,19 @@
+.home{
+    justify-content: center;
+    &__categories{
+        position: relative;
+        width: 100vw;
+        height: fit-content;
+        display: flex;
+        flex-direction: column;
+        padding-top: 3rem;
+        gap: 5rem;
+        align-items: center;
+        background: $bg-color;
+        background-image:url("./assets/img/background.png") ;
+        background-size: cover;
+        &__title{
+            padding: 2rem;
+        }
+    }
+}

@@ -1,0 +1,26 @@
+.header{
+    box-sizing: border-box;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: .5rem 3rem;
+    z-index: 1000;
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    transition: all 0.3s;
+    &__logo{
+        display: flex;
+        height: fit-content;
+        width: 7rem;
+        align-items: center;
+        & > img{
+            cursor: pointer;
+            transition: opacity .6s;
+            &:hover{
+                opacity: .5;
+            }
+        }
+    }
+}

@@ -1,0 +1,18 @@
+# Utiliser une image de base légère pour Node.js
+FROM node:21-bullseye
+
+# Créer et définir le répertoire de travail dans le conteneur
+WORKDIR /app
+
+# Copier tous les fichiers de l'application dans le conteneur
+COPY . .
+
+# Installer les dépendances
+RUN npm install
+RUN npm i -g nodemon pm2
+
+# Exposer le port sur lequel le serveur écoute
+EXPOSE 8089
+
+# Commande pour démarrer l'application
+CMD ["pm2-runtime", "start", "--name", "excuseservice", "--", "nodemon", "server.js"]

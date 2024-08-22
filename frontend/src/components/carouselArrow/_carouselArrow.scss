@@ -1,0 +1,17 @@
+.carouselArrow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1rem;
+  cursor: pointer;
+  &__svg {
+    position: relative;
+    z-index: 2;
+    path {
+      stroke: $font-color;
+    }
+  }
+  &--next{
+    transform: rotate(180deg);
+  }
+}

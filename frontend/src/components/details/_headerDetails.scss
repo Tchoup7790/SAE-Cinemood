@@ -1,0 +1,53 @@
+.headerDetails{
+    position: relative;
+    box-sizing: border-box;
+    display: flex;
+    gap: 1rem;
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    flex-direction: row;
+    &__weather {
+        box-sizing: border-box;
+        display: flex;
+        flex-direction: column-reverse;
+        font-family: "Rounded", sans-serif;
+        align-items: end;
+        justify-content: center;
+        &__description {
+            position: relative;
+            display: flex;
+            width: fit-content;
+            align-items: center;
+            justify-content: center;
+            padding-right: .5rem;
+            &__svg {
+                width: 1.5rem;
+                &--stroke {
+                    stroke: $font-color;
+                }
+                &--fill {
+                    fill: $font-color;
+                }
+            }
+            &__temperature{
+                padding: 0 .5rem;
+            }
+        }
+        &__text{
+            height: fit-content;
+        }
+    }
+    &__location{
+        display: flex;
+        height: fit-content;
+        align-items: end;
+        justify-content: center;
+        &__city{
+            font-size: 3rem;
+            font-family: 'Quicksand_Medium', sans-serif;
+        }
+    }
+    
+}

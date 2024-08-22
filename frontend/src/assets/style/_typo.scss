@@ -1,0 +1,49 @@
+body {
+    font-family: "Helvetica", sans-serif;
+    font-size: 20px;
+    color: $font-color;
+    text-decoration: none;
+    font-stretch: extra-condensed;
+    font-weight: lighter;
+}
+
+h1 {
+    color: $font-color;
+    font-size: 5.5rem;
+    font-family: "Netflix", sans-serif;
+    font-weight: bold;
+    letter-spacing: 0.4rem;
+    font-stretch: extra-condensed;
+}
+
+h2 {
+    font-family: "Quicksans_SB", sans-serif;
+    font-weight: bold;
+    font-size: 2.3rem;
+    color: $font-color;
+}
+
+h3 {
+    font-size: 2.5rem;
+    font-family: "Netflix", sans-serif;
+    font-weight: bold;
+}
+
+h4 {
+    font-size: 1.75rem;
+    font-family: "Helvetica", sans-serif;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: $primary-color;
+}
+
+textarea,
+input,
+select {
+    font-family: "Helvetica", sans-serif;
+    font-size: 0.9rem;
+    text-decoration: none;
+}

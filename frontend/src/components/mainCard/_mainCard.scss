@@ -1,0 +1,36 @@
+.movieCard{
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    box-sizing: border-box;
+    left: 0;
+    bottom: 0;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    &__video{
+        position: absolute;
+        top: -17.5vh;
+        left: -100vw;
+        width: 300vw;
+        height: 135vh;
+        pointer-events: none;
+    }
+    &__title{
+        position: absolute;
+        left: 5%;
+        top: 50%;
+        padding:0 1rem;
+        z-index: 1;
+        width: fit-content;
+        max-width: 50vw;
+        height: fit-content;
+        cursor: pointer;
+        box-shadow: none;
+        color: $font-color;
+        transition: color .8s;
+        &:hover{
+            color: $primary-color;
+        }
+    }
+}

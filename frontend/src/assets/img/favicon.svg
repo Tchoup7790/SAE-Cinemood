@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_4" data-name="Calque 4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 734.41 656.83">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ffce00;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 100.03px;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="69.59" width="656.83" height="656.83"/>
+  <path class="cls-1" d="m461.44,253.9c-4.93-9.4-11.75-16.73-20.46-22-8.71-5.27-18.62-7.91-29.74-7.91s-21.03,2.64-29.74,7.91c-8.71,5.27-15.53,12.61-20.46,22-4.8,9.15-7.25,19.5-7.38,31.05,3.74.03,7.4.2,10.99.78.02-9.91,1.99-18.77,5.93-26.58,3.95-7.85,9.45-13.95,16.5-18.31,7.05-4.35,15.1-6.53,24.15-6.53s17.11,2.18,24.15,6.53c7.05,4.36,12.55,10.46,16.5,18.31,3.95,7.85,5.93,16.76,5.93,26.73s-1.98,18.88-5.93,26.73c-3.95,7.85-9.45,13.95-16.5,18.31-5.35,3.31-11.29,5.35-17.8,6.15.06,3.47.18,6.93.14,10.38,8.52-.85,16.27-3.4,23.24-7.67,8.71-5.33,15.53-12.69,20.46-22.09,4.93-9.4,7.39-20,7.39-31.8s-2.47-22.58-7.39-31.97Z"/>
+  <path class="cls-3" d="m192.71,332.65c-4.28-49.64,14.03-68.63,30.64-78.93,24.69-15.32,61.02-1.45,74.62,23.74,5.25,9.73,6.95,20.42,5.51,30.61,5.34-6.49,12.04-12.04,19.96-16.19,30.09-15.75,67.83-5.25,85.37,23.84,18.85,31.24,8.23,71.31-22.68,89.36,13.42.07,26.25,9.63,28.42,25.64,1.39,10.28-3.49,20.41-12.06,26.24-1.79,1.22-3.41,2.12-5.13,2.85h-57.48"/>
+  <g>
+    <g id="_Répétition_radiale_" data-name="&amp;lt;Répétition radiale&amp;gt;">
+      <line class="cls-3" x1="290.6" y1="223.33" x2="329.71" y2="239.22"/>
+    </g>
+    <g id="_Répétition_radiale_-2" data-name="&amp;lt;Répétition radiale&amp;gt;">
+      <line class="cls-3" x1="329.95" y1="172.02" x2="356.56" y2="204.79"/>
+    </g>
+    <g id="_Répétition_radiale_-3" data-name="&amp;lt;Répétition radiale&amp;gt;">
+      <line class="cls-3" x1="389.14" y1="146.02" x2="396.68" y2="187.56"/>
+    </g>
+    <g id="_Répétition_radiale_-4" data-name="&amp;lt;Répétition radiale&amp;gt;">
+      <line class="cls-3" x1="453.53" y1="151.75" x2="440.13" y2="191.78"/>
+    </g>
+    <g id="_Répétition_radiale_-5" data-name="&amp;lt;Répétition radiale&amp;gt;">
+      <line class="cls-3" x1="507.21" y1="187.79" x2="476.18" y2="216.41"/>
+    </g>
+    <g id="_Répétition_radiale_-6" data-name="&amp;lt;Répétition radiale&amp;gt;">
+      <line class="cls-3" x1="536.88" y1="245.23" x2="495.9" y2="255.36"/>
+    </g>
+    <g id="_Répétition_radiale_-7" data-name="&amp;lt;Répétition radiale&amp;gt;">
+      <line class="cls-3" x1="535.2" y1="309.86" x2="494.41" y2="299"/>
+    </g>
+    <g id="_Répétition_radiale_-8" data-name="&amp;lt;Répétition radiale&amp;gt;">
+      <line class="cls-3" x1="502.6" y1="365.69" x2="472.09" y2="336.52"/>
+    </g>
+  </g>
+</svg>

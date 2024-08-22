@@ -1,0 +1,16 @@
+.basicCarousel{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    padding: 0 2rem;
+    width: 85vw;
+    overflow-x: hidden;
+    &__movies{
+        display: flex;
+        flex-direction: row;
+        padding: 2rem 0;
+        overflow: visible;
+        gap: 2rem;
+    }    
+}

@@ -1,0 +1,74 @@
+[
+    {
+        "id": "335984",
+        "title": "Blade Runner 2048",
+        "overview": "A young blade runner's discovery of a long-buried secret leads him to track down former blade runner Rick Deckard, who's been missing for thirty years.",
+        "year": "2017",
+        "poster_path": "/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",
+        "trailer": "gCcx85zbxz4",
+        "director": "Denis Villeneuve"
+    },
+    {
+        "id": "438631",
+        "title": "Dune",
+        "overview": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+        "year": "2021",
+        "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+        "trailer": "n9xhJrPXop4",
+        "director": "Denis Villeneuve"
+    },
+    {
+        "id": "475557",
+        "title": "Joker",
+        "overview": "It tells, in an original story, the transformation of Arthur Fleck into Joker, a dangerous psychopathic killer who will subsequently become Batman's greatest enemy.",
+        "year": "2019",
+        "poster_path": "/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg",
+        "trailer": "t433PEQGErc",
+        "director": "Todd Phillips"
+    },
+    {
+        "id": "238",
+        "title": "The Godfather",
+        "overview": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+        "year": "1972",
+        "poster_path": "/3bhkrj58Vtu7enYsRolD1fZdja1.jpg",
+        "trailer": "bmtuIhesQWA",
+        "director": "Francis Ford Coppola"
+    },
+    {
+        "id": "62177",
+        "title": "Brave",
+        "overview": "The story takes place in an imaginary kingdom in medieval Scotland. Princess Mérida, an independent young girl who refuses to marry, accidentally turns her mother into a bear following an argument and must find a way to save both her mother and the kingdom without giving up her ideal of life.",
+        "year": "2012",
+        "poster_path": "/1XAuDtMWpL0sYSFK0R6EZate2Ux.jpg",
+        "trailer": "-DzVEKgwnA0",
+        "director": "Mark Andrews, Brenda Chapman"
+    },
+    {
+        "id": "24428",
+        "title": "Avengers",
+        "overview": "Nick Fury, director of the international peacekeeping agency known as SHIELD, recruits a team of superheroes to save the world from an unexpected enemy.",
+        "year": "2012",
+        "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
+        "trailer": "b-kTeJhHOhc",
+        "director": "Joss Whedon"
+    },
+    {
+        "id": "872585",
+        "title": "Oppenheimer",
+        "overview": "The story of the development of the atomic bomb by the Manhattan Project during World War II.",
+        "year": "2023",
+        "poster_path": "/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+        "trailer": "bK6ldnjE3Y0",
+        "director": "Christopher Nolan"
+    },
+    {
+        "id": "808",
+        "title": "Shrek",
+        "overview": "Shrek, an ogre who lives in a swamp, sees his life turned upside down when a horde of fairy tale characters are exiled to his land by the evil Lord Farquaad. To get his peace back, Shrek makes a deal with the tyrant: he will rescue Princess Fiona, Farquaad's future wife, from a tower guarded by a dragon, in exchange for the eviction of the intruders.",
+        "year": "2001",
+        "poster_path": "/iB64vpL3dIObOtMZgX3RqdVdQDc.jpg",
+        "trailer": "lNfei4YCZ5o",
+        "director": "Andrew Adamson, Vicky Jenson"
+    }
+]
